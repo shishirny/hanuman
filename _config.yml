@@ -41,7 +41,7 @@ username: shishirny #github username
 repo: hanuman #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
-destination: ../shishirny.github.io/ #destination directory
+destination: #destination directory
 production_url:  https://samanyougarg.com/
 source_url:  https://github.com/samanyougarg/hanuman #source repository url
 
